@@ -40,7 +40,7 @@ class OrderSummary extends  Component{
                     <Button clicked={this.props.canceled}>
                     Vazgeç
                     </Button>
-                    <Button>
+                    <Button clicked={this.props.complate}>
                         Siparişi Tamamla
                     </Button>
                 </Fragment>
