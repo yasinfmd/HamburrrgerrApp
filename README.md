@@ -2,6 +2,15 @@
 ## React Hamburger Siparişi
 
 
+### `Kullanılanlar`
+
+- React
+- Css
+- Firebase
+- PropTypes
+- Class Base Components
+- Axios
+- SweetAlert
 
 ### `npm install`
  diyerek bağımlılıkların yüklenmesi
