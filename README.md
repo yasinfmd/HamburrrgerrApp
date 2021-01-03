@@ -10,5 +10,5 @@
 diyerek projenin ayağa kaldırılması
 ### `örnek görüntü`
 
-<img src="" width="600">
+<img src="https://raw.githubusercontent.com/yasinfmd/HamburrrgerrApp/master/goruntu.png" width="600">
 
